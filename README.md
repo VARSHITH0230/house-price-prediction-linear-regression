@@ -56,9 +56,3 @@ There are several ways this project can be enhanced:
 * XGBoost
 
 These techniques may improve prediction accuracy and help capture more complex patterns in the data.
-
-## Author
-
-**Varshith Reddy**
-
-Aspiring AI/ML Engineer passionate about Machine Learning, Data Science, and Artificial Intelligence projects.
